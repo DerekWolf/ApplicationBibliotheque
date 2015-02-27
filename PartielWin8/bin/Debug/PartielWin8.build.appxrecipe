@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>THOMAS</Machine>
+    <WindowsUser>Thomas</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>3db44ef7-9cd2-4587-b967-355bbb4c459f</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Thomas\Documents\Visual Studio 2013\Projects\PartielWin8\PartielWin8\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Thomas\Documents\Visual Studio 2013\Projects\PartielWin8\PartielWin8\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Thomas\Documents\Visual Studio 2013\Projects\PartielWin8\PartielWin8\bin\Debug\PartielWin8.exe">
+      <PackagePath>PartielWin8.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Documents\ingesup\C# &amp; .NET\B3.LibraryManager\B3.LibraryManager.dll">
+      <PackagePath>B3.LibraryManager.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Documents\Visual Studio 2013\Projects\PartielWin8\PartielWin8\Assets\books.jpg">
+      <PackagePath>Assets\books.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Documents\Visual Studio 2013\Projects\PartielWin8\PartielWin8\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Documents\Visual Studio 2013\Projects\PartielWin8\PartielWin8\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Documents\Visual Studio 2013\Projects\PartielWin8\PartielWin8\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Documents\Visual Studio 2013\Projects\PartielWin8\PartielWin8\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Documents\Visual Studio 2013\Projects\PartielWin8\PartielWin8\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Documents\Visual Studio 2013\Projects\PartielWin8\PartielWin8\bin\Debug\AddBook.xbf">
+      <PackagePath>AddBook.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Documents\Visual Studio 2013\Projects\PartielWin8\PartielWin8\bin\Debug\LibraryPage.xbf">
+      <PackagePath>LibraryPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Documents\Visual Studio 2013\Projects\PartielWin8\PartielWin8\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Documents\Visual Studio 2013\Projects\PartielWin8\PartielWin8\bin\Debug\Skin\CommonSkin.xbf">
+      <PackagePath>Skin\CommonSkin.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Documents\Visual Studio 2013\Projects\PartielWin8\PartielWin8\bin\Debug\Skin\LibrarySkin.xbf">
+      <PackagePath>Skin\LibrarySkin.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Documents\Visual Studio 2013\Projects\PartielWin8\PartielWin8\bin\Debug\Skin\MenuSkin.xbf">
+      <PackagePath>Skin\MenuSkin.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Documents\Visual Studio 2013\Projects\PartielWin8\PartielWin8\bin\Debug\PartielWin8.xr.xml">
+      <PackagePath>PartielWin8.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Documents\Visual Studio 2013\Projects\PartielWin8\PartielWin8\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>THOMAS</Machine>
+    <WindowsUser>Thomas</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>3db44ef7-9cd2-4587-b967-355bbb4c459f</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Thomas\Documents\Visual Studio 2013\Projects\PartielWin8\PartielWin8\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>89E2BB6AFE8D49EA722985BB0710AE704E7504854A934DBC76F4EF2BD64A1A62</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>3db44ef7-9cd2-4587-b967-355bbb4c459f_1.0.0.0_neutral__xkj04xcm6e7n4</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>3db44ef7-9cd2-4587-b967-355bbb4c459f_xkj04xcm6e7n4!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>3db44ef7-9cd2-4587-b967-355bbb4c459f</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Thomas</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Thomas\Documents\Visual Studio 2013\Projects\PartielWin8\PartielWin8\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-24T16:52:05.507</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Thomas\Documents\Visual Studio 2013\Projects\PartielWin8\PartielWin8\bin\Debug\PartielWin8.exe">
+      <PackagePath>PartielWin8.exe</PackagePath>
+      <Modified>2015-02-27T14:48:57.698</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Documents\ingesup\C# &amp; .NET\B3.LibraryManager\B3.LibraryManager.dll">
+      <PackagePath>B3.LibraryManager.dll</PackagePath>
+      <Modified>2015-02-24T12:55:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Documents\Visual Studio 2013\Projects\PartielWin8\PartielWin8\Assets\books.jpg">
+      <PackagePath>Assets\books.jpg</PackagePath>
+      <Modified>2015-02-24T14:03:39.074</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Documents\Visual Studio 2013\Projects\PartielWin8\PartielWin8\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Documents\Visual Studio 2013\Projects\PartielWin8\PartielWin8\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Documents\Visual Studio 2013\Projects\PartielWin8\PartielWin8\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Documents\Visual Studio 2013\Projects\PartielWin8\PartielWin8\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Documents\Visual Studio 2013\Projects\PartielWin8\PartielWin8\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-02-24T14:18:53.820</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Documents\Visual Studio 2013\Projects\PartielWin8\PartielWin8\bin\Debug\AddBook.xbf">
+      <PackagePath>AddBook.xbf</PackagePath>
+      <Modified>2015-02-27T14:46:26.074</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Documents\Visual Studio 2013\Projects\PartielWin8\PartielWin8\bin\Debug\LibraryPage.xbf">
+      <PackagePath>LibraryPage.xbf</PackagePath>
+      <Modified>2015-02-24T16:53:17.500</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Documents\Visual Studio 2013\Projects\PartielWin8\PartielWin8\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-02-24T16:53:17.502</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Documents\Visual Studio 2013\Projects\PartielWin8\PartielWin8\bin\Debug\Skin\CommonSkin.xbf">
+      <PackagePath>Skin\CommonSkin.xbf</PackagePath>
+      <Modified>2015-02-24T16:59:54.156</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Documents\Visual Studio 2013\Projects\PartielWin8\PartielWin8\bin\Debug\Skin\LibrarySkin.xbf">
+      <PackagePath>Skin\LibrarySkin.xbf</PackagePath>
+      <Modified>2015-02-24T16:59:54.156</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Documents\Visual Studio 2013\Projects\PartielWin8\PartielWin8\bin\Debug\Skin\MenuSkin.xbf">
+      <PackagePath>Skin\MenuSkin.xbf</PackagePath>
+      <Modified>2015-02-24T14:59:06.567</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Documents\Visual Studio 2013\Projects\PartielWin8\PartielWin8\bin\Debug\PartielWin8.xr.xml">
+      <PackagePath>PartielWin8.xr.xml</PackagePath>
+      <Modified>2015-02-27T13:14:25.764</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Thomas\Documents\Visual Studio 2013\Projects\PartielWin8\PartielWin8\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-02-26T11:24:24.608</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
